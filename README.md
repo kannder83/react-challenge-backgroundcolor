@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# This is a challenge for course React
+
+Just write the color name and see what happen...
+
+## This challenge was taken from youtube
+
+### URL: https://www.youtube.com/watch?v=oWIqiVAK1Wo&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=10
