@@ -1,11 +1,12 @@
-const SearchColor = ({ setColorBg }) => {
+const SearchColor = ({ colorBg, setColorBg }) => {
   return (
     <form className="box-search" onSubmit={(e) => e.preventDefault()}>
       <input
         type="text"
         className="search-color"
+        value={colorBg}
         onChange={(e) => setColorBg(e.target.value)}
-        placeholder="Write a color name..."
+        placeholder="Type a color name..."
       />
     </form>
   );

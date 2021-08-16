@@ -11,7 +11,7 @@ function App() {
       <div className="container">
         <Title />
         <ShowColorBackground colorBg={colorBg} />
-        <SearchColor setColorBg={setColorBg} />
+        <SearchColor colorBg={colorBg} setColorBg={setColorBg} />
       </div>
     </div>
   );
