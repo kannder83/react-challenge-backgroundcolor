@@ -1,7 +1,9 @@
-const ShowColorBackground = () => {
+const ShowColorBackground = ({ colorBg, setColorBg }) => {
   return (
-    <div className="content">
-      <div className="box-color">Color here</div>
+    <div className="box-color">
+      <div className="box-color_bg" style={{ backgroundColor: `${colorBg}` }}>
+        Color here
+      </div>
     </div>
   );
 };

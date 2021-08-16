@@ -1,12 +1,16 @@
 .box-color {
-  width: 280px;
-  height: 280px;
+  width: 100%;
+  min-height: 280px;
   margin: 20px;
+}
 
+.box-color_bg {
+  width: 100%;
+  height: 100%;
   background-color: $color-two;
   color: white;
   font-size: 2rem;
   @include centerItems();
   @include borderItems();
-  @include box_shadow();
+  @include boxShadow();
 }

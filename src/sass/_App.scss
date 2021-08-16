@@ -7,3 +7,12 @@
   align-items: center;
   background: linear-gradient($color-three, $color-four);
 }
+
+.container {
+  width: 400px;
+  padding: 10px;
+  background: $color-three;
+  @include centerItems;
+  @include borderItems;
+  @include boxShadow;
+}
