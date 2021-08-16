@@ -1,8 +1,8 @@
-const ShowColorBackground = ({ colorBg, setColorBg }) => {
+const ShowColorBackground = ({ colorBg }) => {
   return (
     <div className="box-color">
       <div className="box-color_bg" style={{ backgroundColor: `${colorBg}` }}>
-        Color here
+        BG Color is {colorBg === "" ? "..." : colorBg.toLowerCase()}
       </div>
     </div>
   );

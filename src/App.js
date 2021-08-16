@@ -10,8 +10,8 @@ function App() {
     <div className="App">
       <div className="container">
         <Title />
-        <ShowColorBackground colorBg={colorBg} setColorBg={setColorBg} />
-        <SearchColor />
+        <ShowColorBackground colorBg={colorBg} />
+        <SearchColor setColorBg={setColorBg} />
       </div>
     </div>
   );
