@@ -1,7 +1,7 @@
-# This is a challenge for course React
+# 🏁 Background Challenge
 
-Just type in the name of the color and see what happens...
+Just type the name of a color and see what happens...
 
-## This challenge was taken from Youtube
+## ⚛️ React Course
 
-`URL: https://www.youtube.com/watch?v=oWIqiVAK1Wo&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=10`
+[If you want learn, this is the free course](https://www.youtube.com/watch?v=oWIqiVAK1Wo&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=10)
